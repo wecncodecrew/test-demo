@@ -79,7 +79,7 @@ def create_dashboard():
                     placeholder="Paste email or message text here (e.g., 'URGENT: Click here to verify your bank password immediately')...",
                     label="1. Input Message Text"
                 )
-                analyze_btn = gr.Button("Analyze Message 🔍", variant="primary", size="lg")
+                analyze_btn = gr.Button("Analyze Message", variant="primary", size="lg")
 
             with gr.Column(scale=1):
                 output_report = gr.Markdown(
@@ -89,7 +89,7 @@ def create_dashboard():
                 output_chart = gr.Label(label="3. Prediction Confidence Distribution")
 
         gr.Markdown("---")
-        gr.Markdown("### ⚡ Incident Response Actions")
+        gr.Markdown("### Incident Response Actions")
         with gr.Row():
             quarantine_btn = gr.Button("🟡 Quarantine Message", variant="secondary")
             block_btn = gr.Button("🔴 Block Sender", variant="stop")
