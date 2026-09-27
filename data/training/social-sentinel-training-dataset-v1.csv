@@ -1,0 +1,785 @@
+id,text,urgency_flag,authority_flag,manipulation_flag,label
+1,CRITICAL UPDATE: Your bank account will be frozen in 1 hour by order of the Director of Fraud Prevention. Click this link immediately to secure your funds,1,1,1,phishing
+2,Congratulations! You won a $3561 gift card. Click [http://secure-update-portal.com](http://secure-update-portal.com) to claim your prize now.,1,0,1,phishing
+3,The office cafeteria will be closed for routine maintenance this coming Friday.,0,0,0,safe
+4,Action Required: Your tax refund of $3872 is pending. Confirm your social security details here.,1,0,1,phishing
+5,CEO Directive: I am unavailable right now. Quickly buy 3485 worth of crypto and send it to this address.,1,1,1,phishing
+6,FINAL NOTICE: Outstanding balance of $746 due immediately to avoid legal action.,1,0,1,phishing
+7,Can we reschedule our 1-on-1 meeting to tomorrow afternoon? Let me know what works for you.,0,0,0,safe
+8,Security Alert: Unauthorized login attempt detected from Brazil. Verify your identity here: http://secure-update-portal.com.,1,0,1,phishing
+9,You've won a FREE cash prize! Click now to claim your reward!,1,0,1,phishing
+10,Your monthly utility invoice for August is ready. You can view details in your portal.,0,0,0,safe
+11,"Hi team, just a reminder that our weekly standup is scheduled for 2 PM today in room Conference Room B.",0,0,0,phishing
+12,Congratulations! Your profile was selected for a free $472 gift voucher.,0,0,1,safe
+13,IT Security Notice: Mandatory server patch required within 47 hours per management policy.,1,1,0,phishing
+14,URGENT: Your Microsoft 365 account will be terminated in 8 hours by executive order. Click SÃ£o Paulo.com to verify.,1,1,1,phishing
+15,Account update notice regarding your recent login from Moscow.,0,0,0,safe
+16,"Hi team, just checking if everyone reviewed the latest sprint documentation.",0,0,0,safe
+17,URGENT: Your Amazon account will be terminated in 17 hours by executive order. Click Moscow.com to verify.,1,0,1,phishing
+18,Flash alert! You won a $988 bonus. Click here immediately before expiration.,1,0,1,phishing
+19,Director request: Please process this confidential wire transfer of $6147 for our client project.,1,1,1,phishing
+20,"Hi team, just checking if everyone reviewed the latest sprint documentation.",0,0,0,safe
+21,Immediate Action Required: Email Account Deactivation Notice,1,0,1,phishing
+22,We are trying to contact you. Last weekends draw shows that you won a $1000 prize GUARANTEED,1,0,1,phishing
+23,Can we reschedule our 1-on-1 check-in to tomorrow morning?,0,0,0,safe
+24,Please remember to log your hours before the payroll cutoff on Friday.,0,0,0,safe
+25,URGENT: Your Google Drive account will be terminated in 5 hours by executive order. Click Lagos.com to verify.,1,1,1,phishing
+26,Flash alert! You won a $988 bonus. Click here immediately before expiration.,1,0,1,phishing
+27,IT Security Notice: Mandatory server patch required within 25 hours or all data will be lost. click the attached link to confirm credentials,1,0,1,phishing
+28,Attached are the minutes from yesterday's product roadmap session.,0,0,0,safe
+29,"Hey love, are we still going to the dinner today ?",0,0,0,safe
+30,"Action Required: IT Department password expiry; your password expires tonighr, click the link to reset",1,0,1,phishing
+31,Routine maintenance on the office printers will occur this evening.,0,0,0,safe
+32,WINNER!! As a valued network customer you have been selected to receive a 900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,1,0,1,phishing
+33,Your crypto wallet has been compromised. Move your funds to a secure address right now.,1,0,0,phishing
+34,"I'm running a few minutes late, go ahead and start the meeting without me. - Sent from my iPhone",0,0,0,safe
+35,Final warning from HR: Your employment status is pending review. Verify your identity at http://login-verify.com/6393 now.,1,1,1,phishing
+36,Could you please grant me edit access to the Q4 roadmap document? Let me know.,0,0,0,safe
+37,Netflix: Your payment failed. Update your billing info in the next 26 hours or lose access.,1,0,0,phishing
+38,"Just a heads up, I will be out of office starting next Tuesday. Best regards.",0,0,0,safe
+39,URGENT: Executive order mandates immediate password reset within 27 hours via http://secure-auth.com/6864 to avoid lockout.,1,1,1,phishing
+40,I'll bring donuts to the office tomorrow morning. Best regards.,0,0,0,safe
+41,Please review the draft copy and leave your comments by EOD Wednesday. Let me know.,0,0,0,safe
+42,"Hey, I found this great investment opportunity that guarantees quick returns. Check it out at http://update-portal.com/3557. SIGN UP NOW!!",1,0,1,phishing
+43,You qualify for a free $2856 shopping spree! Just fill out this survey,1,0,1,phishing
+44,The new coffee machine has been installed in the break room. Thanks!,0,0,0,safe
+45,Reminder: Please ensure your monitors are turned off before leaving. Thanks!,0,0,0,safe
+46,Project update: The design deadline has been extended by two days.,0,0,0,safe
+47,Are you available for a quick Zoom call this afternoon?,0,0,0,safe
+48,"Hey, what time does the movie start tonight?",0,0,0,safe
+49,Thanks for your order! Your package KE-002607 is being prepared and should ship within 2-3 business days,0,0,0,safe
+50,Can you remind me what room the lecture is in?,0,0,0,safe
+51,Are we still on for the client call next week?,0,0,0,safe
+52,Please find attached the Q3 financial report for your review.,0,0,0,safe
+53,Just wanted to share this article I found interesting.,0,0,0,phishing
+54,CEO Directive: I am unavailable right now. Quickly buy 3561 worth of crypto and send it to this address.,1,1,1,phishing
+55,Account update notice regarding your recent login from Moscow.,0,0,0,safe
+56,URGENT: Your account will be terminated in 1 hour by Executive Board. Click here to verify your details immediately.,1,1,1,phishing
+57,The office cafeteria will be closed for routine maintenance this evening.,0,0,0,safe
+58,"As per System Administrator's instructions, we will be transitioning to a new vendor next month.",0,1,0,phishing
+59,"Welcome to the team, Alex! We are excited to have you on board.",0,0,0,safe
+60,Send the payment to this account. The name is John Doe. Authorized by Management.,0,1,0,phishing
+61,The Design team is hosting a lunch and learn on Wednesday. Please RSVP.,0,0,0,safe
+62,Let's touch base next week to go over the final metrics for Titan.,0,0,0,safe
+63,Just a quick reminder that the Q3 all-hands meeting is scheduled for Wednesday.,0,0,0,safe
+64,"Check out this amazing new investment opportunity! Click the attachment to learn how to make $10,000 a day.",0,0,1,phishing
+65,Check out this amazing new investment opportunity! Click the attachment to learn how to make $3561 a day.,0,0,1,phishing
+66,Your password will expire in 14 days. You can change it in the settings panel.,0,0,0,safe
+67,Can we reschedule our 1-on-1 check-in to this coming Friday?,0,0,0,safe
+68,"Hi team, just checking if everyone reviewed the latest sprint documentation.",0,0,0,safe
+69,Please review the attached quarterly metrics report prepared by HR.,0,1,0,phishing
+70,"Hello, I am HR helping clients earn profit. Minimum investment is 10,000. Reply INFO to join.",0,1,1,phishing
+71,Action Required: Your tax refund of $472 is pending. Confirm your social security details here 8 hours.,1,0,1,phishing
+72,Your crypto wallet has been compromised. Move your funds to a secure address 24 hours.,1,0,0,phishing
+73,Please review the attached quarterly metrics report prepared by Management.,0,1,0,phishing
+74,I will be out of the office on PTO this evening. Please contact Sarah for urgent issues.,0,0,0,safe
+75,Attached are the minutes from yesterday's product roadmap session.,0,0,0,safe
+76,Please review the attached quarterly metrics report prepared by Management.,0,1,0,phishing
+77,The Marketing team is hosting a lunch and learn on Wednesday. Please RSVP.,0,0,0,safe
+78,Please remember to log your hours before the payroll cutoff on Thursday.,0,0,0,safe
+79,"Hello dear, I am contacting you regarding an inheritance. The funds are valued at $10,000. Reply to coordinate the transfer.",0,0,1,phishing
+80,Are we still on for the brainstorming session next week?,0,0,0,safe
+81,"Hi team, just a reminder that our weekly standup is scheduled for 2 PM today in room Conference Room B.",0,0,0,phishing
+82,"Welcome to the team, Sarah! We are excited to have you on board.",0,0,0,safe
+83,Can we reschedule our 1-on-1 check-in to next week?,0,0,0,safe
+84,Please remember to log your hours before the payroll cutoff on Monday.,0,0,0,safe
+85,Your monthly utility invoice for October is ready. You can view details in your portal.,0,0,0,safe
+86,The Design team is hosting a lunch and learn on Friday. Please RSVP.,0,0,0,safe
+87,Action Required: Your tax refund of $500 is pending. Confirm your social security details here immediately.,1,0,1,phishing
+88,Can we reschedule our 1-on-1 check-in to this coming Friday?,0,0,0,safe
+89,The Design team is hosting a lunch and learn on Friday. Please RSVP.,0,0,0,safe
+90,Your crypto wallet has been compromised. Move your funds to a secure address right now.,1,0,0,phishing
+91,Are we still on for the happy hour later today?,0,0,0,safe
+92,Please review the attached quarterly metrics report prepared by System Administrator.,0,1,0,phishing
+93,"Congratulations! Your profile was selected for a free $150,000 gift voucher. Click to redeem.",0,0,1,phishing
+94,Check out this amazing new investment opportunity! Click the attachment to learn how to make $3485 a day.,0,0,1,phishing
+95,Your monthly utility invoice for September is ready. You can view details in your portal.,0,0,0,safe
+96,Can we reschedule our 1-on-1 meeting to this evening? Let me know what works for you.,0,0,0,safe
+97,Please review the attached draft for the upcoming Titan presentation.,0,0,0,safe
+98,The HR team is hosting a lunch and learn on Friday. Please RSVP.,0,0,0,safe
+99,Can we reschedule our 1-on-1 check-in to this evening?,0,0,0,safe
+100,Can we reschedule our 1-on-1 meeting to tomorrow afternoon? Let me know what works for you.,0,0,0,safe
+101,Has anyone seen my charger in the breakroom?,0,0,0,safe
+102,"Hey, let me know if you want to grab coffee later.",0,0,0,phishing
+103,Let's touch base later today to go over the final metrics for Alpha.,0,0,0,safe
+104,"To All Tenants, From today onwards, pay rent using M-PESA Till 472. This change is effective for easier tracking. By HR.",0,1,1,phishing
+105,Netflix: Your payment failed. Update your billing info immediately or lose access.,1,0,0,phishing
+106,Attached are the minutes from yesterday's product roadmap session.,0,0,0,safe
+107,"You have won KES 150,000 in the national mobile promotion. Send your full name to receive your winnings.",0,0,1,phishing
+108,Are we still on for the team building next week?,0,0,0,safe
+109,A Message From Executive Board - Please Review Urgently,1,1,0,phishing
+110,The Design team is hosting a lunch and learn on Friday. Please RSVP.,0,0,0,safe
+111,Please remember to log your hours before the payroll cutoff on Wednesday.,0,0,0,safe
+112,Please find attached the Q1 financial report for your review.,0,0,0,safe
+113,Check out this amazing new investment opportunity! Click the attachment to learn how to make $3561 a day.,0,0,1,phishing
+114,Action Required: Your tax refund of $472 is pending. Confirm your social security details here 24 hours.,1,0,1,phishing
+115,Attached are the minutes from yesterday's product roadmap session.,0,0,0,safe
+116,Are we meeting at the library or the computer lab?,0,0,0,safe
+117,ACT NOW! Your exclusive discount expires in the next 30 minutes!,1,0,0,phishing
+118,Your order has been shipped and should arrive tomorrow.,0,0,0,safe
+119,I'll send you the updated spreadsheet tonight,0,0,0,safe
+120,I've uploaded the project files to the shared folder.,0,0,0,safe
+121,Can you send me the meeting agenda before tomorrow morning?,1,0,0,safe
+122,Dear All Attached are the slides for the final session.,0,0,0,safe
+123,Are we meeting at the library or the computer lab?,0,0,0,safe
+124,Are you available for a quick Zoom call this afternoon?,0,0,0,safe
+125,Double your investment overnight! Send your payment now to secure your spot!,1,0,1,phishing
+126,FREE iPhone giveaway! You are one of the lucky selected winners!,0,0,1,safe
+127,"Hey, what time does the movie start tonight?",0,0,0,safe
+128,Please remember to submit your timesheet before Friday.,0,0,0,safe
+129,I've uploaded the project files to the shared folder.,0,0,0,safe
+130,You've won a FREE cash prize! Click now to claim your reward!,1,0,1,phishing
+131,URGENT: Verify your account immediately or it will be permanently closed!,1,0,1,phishing
+132,Can you remind me what room the lecture is in?,0,0,0,safe
+133,"Claim your $2,000 reward today! No purchase necessary. Click to continue!",1,0,1,phishing
+134,"Make $10,000 every month with no experience! Start earning today!",1,0,1,phishing
+135,Thanks for helping me with the presentation today!,0,0,0,safe
+136,ACT NOW! Your exclusive discount expires in the next 30 minutes!,1,0,1,phishing
+137,FREE gift waiting for you! Click this link to collect it immediately!,1,0,1,phishing
+138,Can you check if the printer is working?,0,0,0,safe
+139,Earn thousands from home with this secret opportunity! Sign up today!,1,0,1,phishing
+140,Your bank account requires immediate verification. Click here to avoid suspension!,1,0,1,phishing
+141,Can you please send me the notes from yesterday's Python lecture when you get a chance? I'm trying to finish the assignment tonight and want to make sure I'm following the same approach we discussed in class.,0,0,0,safe
+142,Your university account requires you to review your profile information before the end of the semester. You can access the student portal through the usual university website and check your details when you have time.,1,0,1,phishing
+143,"Hey, I sent the invoice to your email this morning. Please have a look when you get a chance and let me know if the billing information is correct before I submit the final copy.",0,0,0,safe
+144,"Congratulations, you've been randomly selected as one of today's lucky visitors! Claim your $1,000 shopping voucher now at http://exclusive-voucher.example.com/redeem.",1,0,1,phishing
+145,Your mobile number has been chosen for a special promotional giveaway. Claim your FREE smartphone before midnight by clicking http://free-phone.example.com/claim-now,1,0,1,phishing
+146,I found a useful article about MQTT security that might help with our IoT project. Here's the page I was reading: https://www.eclipse.org/paho/,0,0,0,safe
+147,"Are we still going ahead with the coffee meeting after class? I should be finished around 2 PM, so anywhere near campus would work for me.",0,0,0,safe
+148,"Hey, I sent the invoice to your email this morning. Please have a look when you get a chance and let me know if the billing information is correct before I submit the final copy.",0,0,0,safe
+149,FINAL NOTICE: Your subscription payment could not be processed. Update your billing information within 24 hours to prevent your account from being cancelled: http://billing-update.example.com.,1,0,1,phishing
+150,"Hey, I pushed the latest changes to the GitHub repository this afternoon. Could you take a look at the authentication module and let me know if everything is working correctly before we merge it?",0,0,0,safe
+151,"Hey, I sent the invoice to your email this morning. Please have a look when you get a chance and let me know if the billing information is correct before I submit the final copy.",0,0,0,safe
+152,"Thanks again for helping me with the presentation yesterday. I think the final version looks much better now, especially after we reorganized the introduction and added the results section.",0,0,0,safe
+153,URGENT PAYMENT ALERT: We detected an unusual transaction on your account. Verify the transaction immediately at http://account-security.example.com/verify or your account may be restricted.,1,0,1,phishing
+154,I've finished cleaning up the dataset and uploaded the CSV file to our project folder. You can access the shared files here: https://drive.google.com/drive/my-drive,0,0,0,safe
+155,"Congratulations! You have been selected for an exclusive $1,500 cash reward. Your claim must be completed before midnight, so visit http://limited-reward.example.com/claim to confirm your prize immediately.",1,0,1,phishing
+156,"Can you remind me what time we're supposed to arrive at the conference tomorrow? I remember the presentation starts at 9 AM, but I'm not sure whether they want us there thirty minutes earlier.",0,0,0,safe
+157,"Hey, I just received a message saying my account will be suspended unless I verify my details today. It includes this link: http://account-verification.example.com/verify-now — can you tell me if this looks legitimate?",1,0,1,phishing
+158,"Mom, I'll probably be home a little later than usual today because we have an extra meeting after work. Could you please leave some dinner in the fridge if you're already making something?",0,0,0,safe
+159,Can you please check the updated project schedule before our meeting tomorrow? I made a few changes to the deadlines and uploaded the latest version to the shared folder here: https://drive.google.com/drive/my-drive,0,0,0,safe
+160,Your package is scheduled for delivery tomorrow between 9 AM and 1 PM. You can check the delivery status using the official tracking page provided by the courier in your order confirmation.,1,0,0,safe
+161,ACT NOW! Your internet service account is scheduled for suspension because your latest payment could not be confirmed. Update your payment details here: http://service-update.example.com/payment.,1,0,1,phishing
+162,"Hey, are you still interested in joining us for basketball on Saturday afternoon? We're planning to start around 3 PM, but I'll let you know if the time changes.",0,0,0,safe
+163,"You can earn up to $5,000 every week working from home with this simple opportunity. No previous experience is required. Register today at http://work-from-home.example.com/start.",1,0,1,phishing
+164,FINAL WINNER NOTIFICATION: Your email address has been selected for an exclusive cash prize. You have only a few hours remaining to confirm your reward at http://cash-prize.example.com/confirm.,1,0,1,phishing
+165,"Don't forget that we're presenting the research proposal on Friday morning. I've attached the slides we worked on yesterday, so please check your section and let me know if anything needs to be changed.",0,0,0,safe
+166,have sent the updated creditors tracker waiting for eliza to send over the key contact information for the remaining individuals,0,0,0,safe
+167,You must verify your identity within 24 hours or your account will be permanently suspended. Click here immediately to confirm your details.,1,0,1,phishing
+168,Your grocery delivery is scheduled for tomorrow between 2-4pm,0,0,0,safe
+169,"Attached is the volunteer schedule for next month. If any of your assigned shifts don't work, feel free to swap with another volunteer or let us know",0,0,0,safe
+170,"As required by HR policy, all employees must complete mandatory compliance training. Our records show you have not completed it. Failure to comply by end of day will be reported to your manager.",1,1,0,phishing
+171,A Message From Your Manager - Please Review Urgently,1,1,0,phishing
+172,"Action Required: IT Department password expiry; your password expires tonighr, click the link to reset",1,1,1,phishing
+173,"Hi team, here are today's standup notes",0,0,0,safe
+174,This week's featured recipes include a roasted vegetable pasta and a lemon herb chicken.,0,0,0,safe
+175,Suspicious login attempts were detected on your account and it has been temporarily locked for your protection. Verify your identity within the next 2 hours to restore access.,1,0,1,phishing
+176,You've earned enough points for a free drink on your next visit!,0,0,0,safe
+177,Just wanted to give everyone a heads up that we're planning the family reunion for the second weekend of July this year,0,0,0,safe
+178,Hey! I finally uploaded the photos from our hike last weekend to the shared album,0,0,0,safe
+179,Here's a roundup of what shipped this quarter.,0,0,0,safe
+180,This is a friendly reminder that you have a dental cleaning scheduled for next Tuesday at 10:30am,0,0,0,safe
+181,"Nearly all of your colleagues have already completed this required survey. You're one of the last remaining, so please finish it right away",0,0,1,phishing
+182,"As the system administrator for your organization, I'm notifying you that your mailbox has exceeded its storage limit. Verify your credentials immediately using the link below to prevent email loss.",1,1,0,phishing
+183,"You are eligible for a tax refund, but your claim will expire within 48 hours if not processed.",1,0,1,phishing
+184,Thanks for joining today's webinar on time management strategies.,0,0,0,safe
+185,"As directed by the Office of the Director, all staff must confirm their credentials through the secure portal today.",1,1,0,phishing
+186,This confirms your monthly subscription has renewed successfully.,0,0,0,safe
+187,"Congratulations! You've been randomly selected to receive a $1,000 gift card. This offer is exclusive and only available to the first 50 people who claim it, so don't miss out - click to claim now.",1,0,1,phishing
+188,Your invoice is now 60 days overdue and has been escalated. Failure to pay within 12 hours will result in legal action and additional late fees,1,0,0,phishing
+189,Thanks for your order! Your package containing a ceramic mug set and a table runner is being prepared and should ship within 2-3 business days,0,0,0,safe
+190,Thanks to everyone who came out yesterday to help with the fall planting. We got three new beds ready and planted garlic and cover crops,0,0,0,safe
+191,This is an official notice from the district court clerk's office. A summons has been issued in your name. Failure to respond within 24 hours may result in a default judgment against you.,1,1,0,phishing
+192,You've been personally selected for a private deal not available to the public.,0,0,1,phishing
+193,"As your property manager, I am required to inform you that your lease is in violation,Respond within 24 hours with the requested payment confirmation to avoid eviction proceedings.",1,1,1,phishing
+194,Your Package Delivery Failed - Reschedule Now,1,0,1,phishing
+195,"Out of thousands of applicants, you were specially chosen for this reward based on your loyalty",0,0,1,phishing
+196,Part three of our jazz history series just dropped,0,0,0,safe
+197,Your streaming account showed a login from an unusual location. You have 6 hours to confirm your identity before your account is permanently deactivated,1,0,1,phishing
+198,You've Been Selected - Free iPhone Giveaway,0,0,1,phishing
+199,"Due to the upcoming holiday, recycling pickup will shift to Saturday this week only",0,0,0,safe
+200,Thanks for Your Feedback on Our App,0,0,0,safe
+201,I'm currently traveling and need you to process an urgent wire transfer on my behalf.,0,1,1,phishing
+202,"Your room is booked for the weekend of the 14th, check-in from 3pm",0,0,0,safe
+203,URGENT: Verify Your Payment Method or Lose Access,1,0,1,phishing
+204,"We're excited to announce a new 2-mile loop trail opening this weekend, featuring a scenic overlook",0,0,0,safe
+205,Version 4.2 includes minor bug fixes and a refreshed icon set. Update whenever it's convenient - no immediate action needed.,0,0,0,safe
+206,"Congrats to team ""Quiz Pistols"" for taking first place last night!",0,0,0,safe
+207,Your memtorship is confirmed! AUG 1st 2026,0,0,0,safe
+208,OVERDUE: Immediate Payment Required to Avoid Service Shutoff,1,0,1,phishing
+209,Thanks for Joining Our Beta Program,0,0,0,safe
+210,"This week's box includes squash, kale, apples, and a jar of local honey. Recipe suggestions are linked below if you're looking for inspiration.",0,0,0,safe
+211,Your Email Will Be Deactivated in 3 Hours,1,0,1,phishing
+212,The Board of Directors requires all department heads to confirm sensitive account access today as part of an internal review,0,1,1,phishing
+213,"This is a confidential request from senior management. I need you to review and sign off on an attached document today without looping in others, per instructions from leadership.",0,1,1,phishing
+214,Wishing you a wonderful birthday from all of us! Feel free to stop by the break room today for cake around 3pm if you're in the office.,0,0,0,safe
+215,"Double your money in 7 days with our verified crypto trading bot. Minimum deposit KSh 2,000. Limited slots.",1,0,1,phishing
+216,Lunch is on me on Friday to celebrate the new contract. Let me know if you can make it.,0,0,0,safe
+217,Please confirm your attendance for the graduation ceremony by the end of the week.,0,0,0,safe
+218,I will be on leave from 1st to 7th October. Kindly direct urgent matters to Sarah.,0,0,0,safe
+219,"Welcome to the team, Reuben. Please reach out if you need anything during onboarding.",0,0,0,safe
+220,Your package could not be delivered due to an incorrect address. Update it here within 48 hours.,1,0,0,phishing
+221,Notice: the staff car park will be closed for resurfacing next Monday and Tuesday.,0,0,0,safe
+222,I have attached the slides from today's presentation as requested.,0,0,0,safe
+223,"Hi, could we reschedule our 3 PM call to 4 PM? I have a conflicting meeting.",0,0,0,safe
+224,Kindly note that all fee balances must be cleared before registration closes.,0,0,1,phishing
+225,Free government laptops for youth. Register with your ID number and pay KSh 700 for delivery.,0,0,1,phishing
+226,"Team, the new office Wi-Fi password will be shared during the standup tomorrow.",0,0,0,safe
+227,"Hi, could you share the dataset you used for the analysis? I would like to replicate the results.",0,0,0,safe
+228,Verify your mail account now to avoid permanent suspension. Failure to act will result in total data loss.,1,0,1,phishing
+229,"Hi, I am a recruiter offering you a remote job paying $3,000 monthly. Pay a small registration fee to start.",0,0,1,phishing
+230,The CIT 302 continuous assessment test will be sat in Lab 4 on Thursday afternoon.,0,0,0,safe
+231,The results for the second semester examinations will be released next week.,0,0,0,safe
+232,"Your electricity bill for September is KSh 2,340 and is due on the 10th.",1,0,0,phishing
+233,"Your subscription to our premium service will auto-renew at KSh 9,999 unless you cancel through this link.",0,0,1,phishing
+234,"Hi, are we still on for coffee at 4 PM tomorrow?",0,0,0,safe
+235,"Hello dear, I am a widow with an inheritance of $4.5 million and I need a trustworthy partner to receive it.",0,0,1,phishing
+236,"Hi Reuben, I have booked the boardroom for our 11 AM discussion tomorrow.",0,0,0,safe
+237,The group assignment presentation is on Friday morning. Let us meet Wednesday to rehearse.,0,0,0,safe
+238,The internship placement list has been pinned on the notice board outside the office.,0,0,0,safe
+239,"Your TV licence lapsed last night. Settle KSh 1,900 through this portal to avoid disconnection.",1,0,1,phishing
+240,Your name appeared in our unclaimed dividends register. Reply with your ID and bank branch to collect.,0,0,1,phishing
+241,Kindly review the attached contract and share your feedback by Thursday.,0,0,0,safe
+242,Congratulations to the whole team for closing the quarter above target. Well done everyone.,0,0,0,safe
+243,"Your scholarship has been approved. Pay a KSh 3,000 administration fee to secure your slot today.",1,0,1,phishing
+244,Thank you for your application. We will contact shortlisted candidates by the 15th.,0,0,0,safe
+245,Your ATM card has been blocked for security reasons. Reactivate it now using this secure form.,1,0,1,phishing
+246,Special promotion: unlock unlimited streaming for life with a one-time payment of only KSh 999.,0,0,1,phishing
+247,WINNER! Your phone number won our weekend jackpot. Reply YES now to receive your prize code.,1,0,1,phishing
+248,Get a certified degree without sitting exams. Fast delivery and verifiable transcripts. Contact us discreetly.,0,0,1,phishing
+249,"Good morning, I will be working from home today due to a power issue at the office.",0,0,0,safe
+250,Attention: your student portal password expires today. Reset it immediately using this link.,1,0,1,phishing
+251,Please submit your assignment through the student portal before midnight on Sunday.,1,0,0,phishing
+252,Hot forex signals with 98% accuracy. Join our VIP channel today and start profiting immediately.,0,0,1,phishing
+253,"Hi team, the agenda for Thursday's planning session is attached. Please add any items by Wednesday.",0,0,0,safe
+254,"You have unclaimed airtime worth KSh 10,000. Dial the code in this message before it expires today.",1,0,1,phishing
+255,"Your insurance claim of KSh 180,000 is ready. Click to verify your identity and receive payment.",0,0,1,phishing
+256,"Dear valued client, kindly confirm your signature and account PIN for our mandatory records update.",0,0,1,phishing
+257,The workshop registration closes on the 30th. Let me know if you would like me to reserve a spot.,1,0,0,phishing
+258,Meet beautiful singles in your area tonight. Register free and start chatting right now.,1,0,1,phishing
+259,Your order will be delivered to the pickup station in Eldoret town on Wednesday.,0,0,0,safe
+260,Reminder: rent for this month is due on the 5th. Kindly confirm once you have paid.,1,0,0,phishing
+261,Youth empowerment cash transfer is now open. Register with your ID and pay KSh 250 to be enrolled.,0,0,1,phishing
+262,The central bank has released your overdue payment. Provide your account details for immediate transfer.,0,0,1,phishing
+263,I have reviewed your proposal draft and left comments in the shared document.,0,0,0,safe
+264,Your subscription renewal was processed successfully. The next billing date is 20th October.,0,0,0,safe
+265,"We've recently detected a significant increase in scams related to toll road usage. As a result, we require all Link users to update their passwords immediately.",1,0,1,phishing
+266,"To prevent any potential security breaches, it is crucial that all employees update their systems immediately",1,0,1,phishing
+267,Dear KAMOKGELO NGWENYA Student Number 202533440 Thank you for submitting an application with Sefako Makgatho Health Sciences University,0,0,0,safe
+268,Immediate Action Required: Email Account Deactivation Notice,1,0,1,phishing
+269,"Dear Kamokgelo Ngwenya Student Number: 25N8575 We are pleased to confirm that we received your deposits, as well as the fee payer documentation and an official copy of the your results",0,0,0,safe
+270,Dear Mr Kamokgelo Ngwenya Thank you for your application to Rhodes University. Please find the attached letter(s) with regard to your application,0,0,0,safe 
+271,"A refund of R4,240 is now pending. This link will expire in 2 business days",1,0,1,phishing
+272,Immediate adjustments are necessary. Please urgently review conflicting dates to resolve this issue,1,0,1,phishing
+273,Good luck for your 2024 final NSC examinations!,0,0,0,safe
+274,Account as potentially fraudulent. You can immediately view the detailed list of flagged expenses and verify their authenticity through the secure link,1,0,1,phishing
+275,"Notice , water will not be available at 24 June 2026, please fill up your tank",0,0,0,safe
+276,"if you did not authorize this transfer, you must act immediately. Unless reversed within the next 24 hours, the payment will be released and become non-recoverable",1,0,1,phishing
+277,We detected multiple failed MFA attempts on your account. Please verify immediately,1,0,0,phishing
+278,Create a free account today and receive a 250 USD kick-start bonus,1,0,1,phishing
+279,"Hey love, are we still going to the dinner today ?",0,0,0,safe
+280,Claim your free Google device today,1,0,1,phishing
+281,"Copyright Violation, pay the fee of copyright violation or your account will be banned",1,0,1,phishing
+282,"Court Appearance payment, pay this amount now to avoid legal action",1,0,1,phishing
+283,Reminder NSFAS Applications close 15 December 2025,0,0,0,safe
+284,Your African Bank Statement/s - May 2025 - Customer number 16661655,0,0,0,safe
+285,Tax Refund update your bank details,0,0,1,phishing
+286,Submit your idea for the Schneider Electric Go Green Competition,0,0,0,safe
+287,Storage Quota Exceeded pay now or your data will be lost,1,0,1,phishing
+288,Go Green Ideas are Due June 30th,0,0,0,safe
+289,Account Compromise call this number for more information,1,0,1,phishing
+290,Your Intercape tickets are attached,0,0,0,safe
+291,Payment Processing Failed click on the Netflix link below and pay now ,1,0,1,phishing
+292,Order Confirmation for iPhone 14 Pro Max information on the link below,0,0,1,phishing
+293,Account Verification Required click in the link below,0,0,0,safe
+294,"Good Sir, can you assist me to Electronics Lab? I do not understand how multimeter works",0,0,0,safe
+295,Amazon Delivery failed click the link and track your delivery,0,0,1,phishing
+296,UPDATE employee information CLICK the link to update!!,1,0,1,phishing
+297,Account suspension Your account is locked URGENT call to verify immediately,1,0,1,phishing
+298,"Payment Declined, Your payment failed click on the link now and update the billing info",1,0,1,phishing
+299,Your inherited money CLAIM it now,1,0,1,phishing
+300,"Account activated, Congrats you can now use our portal to apply for a bursary",0,0,0,safe
+301,PayPal Payment request: You sent or received payment,0,0,1,phishing
+302,A kind reminder to submit your supporting documents before the deadline,0,0,0,safe
+303,HOT DEAL: Get 90% off designer watches! Buy now,1,0,1,phishing
+304,Double your crypto in 24 hours!!! Send Bitcoin now,1,0,1,phishing
+305,Let's grab coffee and review the pitch deck,0,0,0,safe
+306,Congratulations! You've been selected for a $1000 gift card,0,0,1,phishing
+307,URGENT: Your bank account has been locked. Reply to unlock,1,0,1,phishing
+308,WINNER!! Claim your free iPhone 15 now! Click here,1,0,1,phishing
+309,New device login detected,0,0,0,safe
+310,Get in the game with Uber,0,0,0,safe
+311,URGENT: Executive order mandates immediate password reset within 27 hours via http://secure-auth.com/6864 to avoid lockout.,1,0,1,phishing
+312,Subscription renewed CLICK the link to see more now!!!,1,0,1,phishing
+313,You qualify for a free $2856 shopping spree! Just fill out this survey right now ,1,0,1,phishing
+314,"You are eligible for a tax refund, but your claim will expire within 48 hours if not processed.",1,0,1,phishing
+315,EXACT: Claim your Reward! NOW R100 OFF R300. Use: QQ9H7H3MFPKBGW6 Shop instore/Bash https://i.tfg.co.za/hipB7C by 31Oct26.Full-price only.T&Cs.OptOutStop,1,0,0,phishing
+316,JET: Claim your Reward! R50 OFF R150. Use: 9ZSDHB8D1W8COPF Shop instore/Bash https://i.tfg.co.za/6pfzzC by 31Oct26.Full-price only.T&Cs.OptOutStop,1,0,0,phishing
+317,Enter this code to continue logging in without a password:,0,0,0,safe
+318,Your next mentorship session has been successfully scheduled.,0,0,0,safe 
+319,Double your crypto in 24 hours!!! Send Bitcoin now.,1,0,1,phishing
+320,PayPal Payment request: You sent or received payment,0,0,1,phishing
+321,"Account activated, Congratulans you can now use our portal to apply for a bursary",0,0,0,safe 
+322,"Apple ID verification, Your Apple ID is locked verify now !!",1,0,1,phishing
+323,New jobs similar to Admin support Learnership at Manitou MEA Recommendations,0,0,0,safe 
+324,"Your inherited money CLAIM it now, as your HR of Clientel Life",1,1,1,phishing
+325,Learn more about our updated Terms of Service,0,0,0,safe 
+326,"Payment Declined, Your payment failed click on the link now and update the billing info",1,0,0,phishing
+327,"Today, AI stopped chatting and started working",0,0,0,safe 
+328,Account suspension Your account is locked URGENT call to verify immediately,1,0,0,phishing
+329,hanks for registering for Africa Tech Festival 2026! Now let's spread the word!,0,0,0,safe 
+330,UPDATE employee information from HR CLICK the link nowto update!!,1,1,0,phishing
+331,Picked for you: Electrical Engineering Intern (Vacation Work) openings in Johannesburg,0,0,0,safe 
+332,Delivery failed click the link to pay a fee and track your delivery ,0,0,1,phishing
+333,New device login detected,0,0,0,safe 
+334,Please call our customer service representative on 0800 169 6031 between 10am-9pm as you have WON a guaranteed £1000 cash or £5000 prize!,1,1,1,phishing
+335,ech Leadership Meetup with Charles Chirongoma (Founder at Chase Continental),0,0,0,safe 
+336,"As a valued customer, I am pleased to advise you that following recent review of your Mob No. you are awarded with a £1500 Bonus Prize, call 09066364589 NOW",1,0,1,phishing
+337,07732584351  - MSG = We tried to call you re your reply to our sms for a free nokia mobile + free camcorder. Please call now 08000930705 for delivery tomorrow,1,0,1,phishing
+338,Your order confirmation for Premium Student,0,0,0,safe 
+339,"Action Required: We Could Not Renew Your Prime Membership ID#8238501287-PM [SEP] Dear Prime Customer, Your subscription has expired! Your Prime subscription expired on 10-06-2026. We attempted to renew your subscription at the end of each billing cycle, but your monthly payment failed. As a result, we had to cancel your subscription. Of course, we’d love to have you back. If you’d like to renew your subscription, please click the link below.",1,0,1,phishing
+340,Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's,0,0,1,phishing
+341,Confirmation application for your Electrical Engineering position,0,0,0,safe 
+342,WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,1,0,1,phishing
+343,"URGENT! You have won a 1 week FREE membership in our £100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010 T&C www.dbuk.net LCCLTD POBOX 4403LDNW1A7RW18",1,0,1,phishing
+344,"Congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! C Suprman V, Matrix3, StarWars3, etc all 4 FREE! bx420-ip4-5we. 150pm. Dont miss out!",1,0,1,phishing
+345,"As a valued customer, I am pleased to advise you that following recent review of your Mob No. you are awarded with a £1500 Bonus Prize, call 09066364589",0,0,1,phishing
+346,Your temporary Notion login code,0,0,0,safe 
+347,ESKOM ENGINEERING DIPLOMA BURSARY PROGRAMME - GRADE 12 APPLICANTS (2027 INTAKE) (eskom_bur_006320),0,0,0,safe 
+348,Odyssey Narrative Report for Kamokgelo Ngwenya,0,0,0,safe 
+349,Your Apple Account was used to sign in to iCloud via a web browser,0,0,0,safe 
+350,"This is a friendly reminder that you have RSVP’d to attend the Dahua Technology Road Show – Cape Town, and we are looking forward to hosting you.",0,0,0,safe 
+351,CONGRATULATIONS! You have won a free iPhone 13! Click here to claim your prize now!,1,0,1,phishing
+352,Claim your free cruise vacation! The seats are limited  You have been selected!,1,0,1,phishing
+353,Investment opportunity! 500% returns guaranteed,0,0,1,phishing
+354,You nailed Introduction to Cyber Security! Here’s what’s next,0,0,0,safe 
+355,Can you send me the presentation slides from today meeting?,0,0,0,safe 
+356,URGENT: Your inheritance of $5.5M is pending release,1,0,1,phishing
+357,Hey Kamokglo This is a friendly reminder to complete your candidate experience survey: Survey,0,0,0,safe 
+358,"You have won the UK lottery! Contact us to claim £1,000,000!",0,0,1,phishing
+359,The project deadline has been extended to next Friday.,0,0,0,safe 
+360,"Thank you for registering for the SABIA-CPUT Agro-Industrial Biogas Training 2.0, taking place from 23-25 November 2026 at SARETEC, Cape Town",0,0,0,safe 
+361,Your Netflix subscription has expired. Update payment details now!,1,0,0,phishing
+362,Hello Kamogelo You have passed the evaluation stage. Please continue by completing your Psych Test.,0,0,0,safe 
+363,"Dear Taxpayer, please make use of the following OTP for SARS eFiling:6580-618602",0,0,0,safe 
+364,WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,1,0,1,phishing
+365,"Not sure yet, still trying to get a hold of him",0,0,0,safe
+366,"Think ur smart ? Win £200 this week in our weekly quiz, text PLAY to 85222 now!",1,0,1,phishing
+367,"Sorry, I'll call later",0,0,0,safe
+368,The academic discipline of Software Engineering was launched at a conference sponsored by NATO,0,0,0,safe
+369,Customer service annoncement. You have a New Years delivery waiting for you. Please call 07046744435 now to arrange delivery,1,1,1,phishing
+370,Great. Never been better. Each day gives even more reasons to thank God,0,0,0,safe
+371,"Today's Offer! Claim ur £150 worth of discount vouchers! Text YES to 85023 now! SavaMob, member offers mobile!",1,0,1,phishing
+372,"Sorry that took so long, on my way now",0,0,0,safe
+373,We are trying to contact you. Last weekends draw shows that you won a $1000 prize GUARANTEED,0,0,1,phishing
+374,we offer you the same meds with lower prices . we have most meds at 70 % less than retail prices.  our meds include :  pillcialis - as low as $ 2 . 25 / pillsoma - as low as $ 1 . 98 /. click here to see the selection .,0,0,1,phishing
+375,"WE NEED HELP.  We are a 14 year old fortune 500 company, and we have  grown 1000%!  We cannot keep up.  We are looking for individuals who  want to work at home, and make a good living.So if you are looking to be employed from home with a career that has vast opportunities, then go:http://www.lotsonet.com/opportunityand fill out our info form.  NO EXPERIENCE REQUIRED, WE WILL TRAIN YOU.
+",0,0,1,phishing
+376,"START A BUSINESS OR FUND YOUR CHILD'S COLLEGE WITHOUT DEBT.Get the money you need and NEVER have to pay it back. Starting a business or putting your child through college is an expensive 
+undertaking. That's where we can Help. Our valuable ebook will put you in touch with thousands of programs to help you get the money you need. That's right FREE Grant & Scholarship Money.
+Don't Let Someone Else Get YOUR Share!Reg. Price $34.95     Order by July 31 and SAVE $10.00. Tour our SECURE website for more details: 
+http://www.moneyfromthetree.com/moneytree/index5.htm ",0,0,1,phishing
+377,PRIVATE! Your 2003 Account Statement for 07753741225 shows 800 un-redeemed S. I. M. points. ,0,0,1,phishing
+378,Urgent $500 guaranteed award is still unclaimed! Call 09066368327 NOW closingdate04/09/02 claimcode M39M5,1,0,1,phishing
+379,Will do. Was exhausted on train this morning. Too much wine and pie. You sleep well too,0,0,0,safe
+380,"For ur chance to win a £250 wkly shopping spree TXT: SHOP to 80878. T's&C's www.txt-2-shop.com custcare 08715705022, 1x150p/wk",0,0,1,phishing
+381,"Pls send me a comprehensive mail about who i'm paying, when and how much.",0,0,0,safe
+382,"Dear Voucher Holder, 2 claim this weeks offer, at your PC go to http://www.e-tlp.co.uk/expressoffer Ts&Cs apply.",0,0,1,phishing
+383,Hope you are having a good week. Just checking in,0,0,0,safe
+384,Convey my regards to him,0,0,0,safe
+385,Your PayPal account has been limited. Verify your identity within 48 hours or your funds will be held.,1,0,1,phishing
+386,"Hi, just checking if you got my last email about the project update?",0,0,0,safe
+387,IRS Notice: You are owed a $1400 stimulus refund. Confirm your SSN and bank details to receive your payment.,0,0,1,phishing
+388,"Don't forget, tomorrow is dress-down Friday at the office.",0,0,0,safe
+389,Your Microsoft 365 license has expired. Your files will be deleted in 12 hours unless you renew now via the link below.,1,0,1,phishing
+390,Team lunch is confirmed for Thursday at 1 PM. Please RSVP by end of day.,0,0,0,safe
+391,BANK ALERT: A transaction of $2350 was initiated from your account. If this was not you click here to cancel immediately.,1,0,1,phishing
+392,The library books you requested are now available for pickup.,0,0,0,safe
+393,Action Required: Your FedEx shipment has been held due to an unpaid customs fee of $3.29. Pay now to release your package.,1,0,1,phishing
+394,Just wanted to say great job on the presentation today â€” the client was really impressed.,0,0,0,safe
+395,Your WhatsApp account has been flagged for suspicious activity. Verify your number now or your account will be banned.,1,0,1,phishing
+396,"Hi, the Wi-Fi password for the conference room has been changed to ConfRoom2026!",0,0,0,safe
+397,Your Amazon order #112-3456789 has been cancelled. Click to dispute and restore your order before the 24-hour window closes.,1,0,1,phishing
+398,Monthly water bill for September is now available. No action required.,0,0,0,safe
+399,FINAL WARNING: Your domain will expire and be permanently deleted tonight. Renew immediately to avoid losing your website.,1,0,1,phishing
+400,"Hey, are you joining the team call at 4?",0,0,0,safe
+401,HR Department: You have an unclaimed bonus of R5000 from last quarter. Please provide your bank account details to process the payment.,0,1,1,phishing
+402,The code review comments have been addressed. Feel free to approve the pull request.,0,0,0,safe
+403,GOVERNMENT NOTICE: Your national ID has been linked to a suspicious transaction. Call this number within 2 hours to avoid arrest.,1,1,1,phishing
+404,Reminder: Your dental appointment is on Wednesday the 4th at 10 AM.,0,0,0,safe
+405,Your Instagram account has been reported for copyright violations. Click to appeal now before your account is permanently deleted.,1,0,1,phishing
+406,Please find the attached invoice for the services rendered in August.,0,0,0,safe
+407,You have been pre-approved for a personal loan of $50000 with 0% interest. No credit check required. Apply now before offer expires.,1,0,1,phishing
+408,The sprint retrospective meeting has been moved to Tuesday at 2 PM.,0,0,0,safe
+409,APPLE SECURITY ALERT: Your Apple ID was used to sign in from an unrecognized device in China. Disable access now.,1,1,0,phishing
+410,"Looking forward to seeing everyone at the year-end function, should be a great evening!",0,0,0,safe
+411,Your Netflix subscription payment has failed. Update your billing information within 24 hours to avoid service interruption.,1,0,1,phishing
+412,The quarterly financial report is ready for your review. Please share any feedback by Friday.,0,0,0,safe
+413,Crypto opportunity: Double your Bitcoin in 24 hours guaranteed. Send 0.5 BTC to this wallet and receive 1 BTC back.,1,0,1,phishing
+414,"URGENT! You have won a 1 week FREE membership in our 100,000 Prize Jackpot!",1,0,1,phishing
+415,Please go ahead with registration. I just wanted to be sure. Do have a great weekend.,0,0,0,safe
+416,WINNER!! As a valued network customer you have been selected to receive a 900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,1,0,1,phishing
+417,Free entry in a weekly competition to win FA Cup final tickets 21st May 2027.,0,0,0,safe
+418,"Your login code is 849201; expires in 5 minutes, do not share with anyone.",0,0,0,safe
+419,Power Notice: Immediate disconnection scheduled for your address due to balance; settle here: utility-payment-now.com.,1,0,1,phishing
+420,"Hi, this is your CEO, I'm stuck in a conference—text me back here right away, I need a quick favor.",1,1,0,phishing
+421,AutoCare: Your vehicle inspection is complete and ready for pickup at your convenience.,0,0,0,safe
+422,"Congratulations, your mobile number won a $250 Amazon gift card; claim by midnight at amz-voucher-redeem.com.",1,0,1,phishing
+423,"Microsoft: 683011 is your verification code; if you didn't request this, ignore this text.",0,0,0,safe
+424,"Bank Alert: A debit of $849.20 at BestBuy is pending; if not you, cancel immediately at bank-secure-portal.com.",1,0,1,phishing
+425,Please find attached the meeting minutes from yesterday's board session.,0,0,0,safe
+426,"Did you try spending $45.12 at Shell? Reply YES if authorized, NO if not.",0,0,1,phishing
+427,Travel notice successfully added for your card ending in 1004 for Oct 12–Oct 20.,0,0,0,safe
+428,"Dear customer, your 8,500 Bonga Points will expire tonight at 23:59. Redeem for an iPhone 14 or Ksh 15,000 cash via: safaricom-bonga-claim.co.ke.",1,0,1,phishing
+429,"Hustler Fund: Congratulations! Your limit has been upgraded from Ksh 1,500 to Ksh 50,000. Settle processing fee of Ksh 350 to unlock: 0798112233.",0,0,1,phishing
+430,"Dear Customer, you have 1.2 GB data valid until midnight tonight. Dial *544# to renew or view offers.",0,0,0,safe
+431,Acknowledgment: Your Individual Income Tax Return for year 2025 has been submitted successfully. Acknowledgment Number: KRA2026090123.,0,0,0,safe
+432,"Your payment of KES 1,050 for application REF-92810 has been received. Track progress on ecitizen.go.ke.",0,0,0,safe
+433,"You have been shortlisted for the Secondary School Teacher position. Report to the county director with Ksh 1,200 medical clearance fee.",0,0,1,phishing
+434,Your package is ready for collection at the pickup point you selected. Check your usual delivery app for details.,0,0,0,safe
+435,URGENT: Your bank account will be CLOSED today. Verify immediately: [suspicious-link.example],1,0,1,phishing
+436,Reminder: Your dentist appointment is tomorrow at 10:00 AM. Call the clinic if you need to reschedule.,0,0,0,safe
+437,"You have won KSh 50,000! Claim your prize NOW by sending your PIN.",1,0,1,phishing
+438,Your electricity bill is due on 10 September. Please use your normal provider app or website to pay.,0,0,0,safe
+439,Your account has unusual activity. Confirm your password within 30 minutes: [fake-link.example],1,0,1,phishing
+440,Your monthly mobile plan has renewed successfully. Thank you for your payment.,0,0,0,safe
+441,FINAL WARNING! You owe a traffic fine. Pay today or face arrest: [fake-link.example],1,1,1,phishing
+442,Your library book is due Friday. Renew it through the library app if needed.,0,0,0,safe
+443,Your mobile number will be disconnected unless you verify your identity immediately.,1,0,1,phishing
+444,Your appointment has been confirmed for Monday at 2 PM. Reply to this number if you need assistance.,0,0,0,safe
+445,Congratulations! You were selected for a government cash grant. Send your ID number to claim.,0,0,1,phishing
+446,"Your card payment of KSh 2,450 was successful at the store you visited.",0,0,0,safe
+447,Security alert: Someone logged into your account. Send us the OTP you just received to cancel it.,0,0,1,phishing
+448,Your order has shipped and is expected to arrive Thursday.,0,0,0,safe
+449,You have 3 missed calls from your bank. Click here to speak to an agent now: [fake-link.example],1,1,1,phishing
+450,Your insurance policy renewal reminder: please review your policy through the insurer's official app.,0,0,0,safe
+451,Your SIM registration expires tonight! Send your ID and PIN to avoid suspension.,1,0,1,phishing
+452,Thanks for shopping with us. Your receipt is available in your customer account.,0,0,0,safe
+453,You have been chosen for a secret VIP investment opportunity. Reply YES to receive details.,0,0,1,phishing
+454,Your school fee payment has been received. Thank you.,0,0,0,safe
+455,Your bank needs you to confirm your PIN immediately because of a security problem.,1,0,0,phishing
+456,Reminder: Your vehicle service is booked for Saturday at 9 AM.,0,0,0,safe
+457,We detected a problem with your parcel address. Pay KSh 100 now to avoid return: [fake-link.example],1,0,1,phishing
+458,Your salary has been deposited into your account.,0,0,0,safe
+459,ALERT: Unusual sign-in attempt detected from a new device. Secure your account now at account-verify-secure.com,1,0,0,phishing
+460,Your gym membership renewal notice for September has been processed successfully.,0,0,0,safe
+461,"URGENT TAX REFUND: You are owed $1,240 by the tax authority. Click here to claim immediately: tax-refund-portal.net",1,1,1,phishing
+462,Your weekly grocery delivery is scheduled between 2 PM and 4 PM today.,0,0,0,safe
+463,Final Notice: Your subscription will be cancelled today unless you update your billing details at fast-pay-link.info,1,0,1,phishing
+464,Tax Agency: Unpaid balance of $420.15 found. Warrant issued if not resolved within 2 hours: irs-portal-pay.org,1,1,1,phishing
+465,"Hey, are we still meeting for lunch at 12:30 today?",0,0,0,safe
+466,FINAL NOTICE: Your package delivery is suspended due to invalid house number. Update immediately: post-tracking-hub.com,1,0,1,phishing
+467,"Your appointment with Dr. Collins is confirmed for tomorrow at 3:00 PM. Reply 1 to confirm, 2 to reschedule.",0,0,0,safe
+468,Netflix Alert: Your membership is on hold due to a billing issue. Verify account details here to avoid cancellation: netflix-billing-update.cc,1,0,1,phishing
+469,Reminder: Your dental cleaning is scheduled for Monday at 9:00 AM.,0,0,0,safe
+470,HR Notice: Complete mandatory tax declaration update by 5 PM today or payroll access will be suspended: company-hr-portal.net,1,1,1,phishing
+471,Can you pick up milk and bread on your way home?,0,0,0,safe
+472,ALERT: Suspicious login attempt detected from IP 192.168.1.1. Secure your Apple ID immediately: apple-verify-cloud.com,1,0,1,phishing
+473,"Your Uber driver is arriving in a Silver Toyota Prius, license plate KDD 123A.",0,0,0,safe
+474,URGENT: This is Officer Davis from Central Police. A formal complaint has been filed against you. Call 800-555-0199 immediately.,1,1,1,phishing
+475,Thanks for choosing Apex Fitness. Your 30-day trial starts today!,0,0,0,safe
+476,"PayPal: You sent $750.00 to crypto_exchange_ltd. If this was not you, dispute this charge right now at paypal-dispute-center.com",1,0,1,phishing
+477,Dad sent you the family photos via cloud drive. Let me know when you get them.,0,0,0,safe
+478,"Exclusive Offer! You have qualified for a $5,000 pre-approved personal loan with 0% interest for 12 months. Claim here: fast-cash-loans.net",0,0,1,phishing
+479,Your Google verification code is 492019. It will expire in 10 minutes.,0,0,0,safe
+480,Water Department: Overdue balance notice. Water shutoff scheduled tomorrow morning. Pay balance now at citywater-billpay.org,1,1,1,phishing
+481,"Hey, do you have the PDF notes for week 4 lecture?",0,0,0,safe
+482,SECURITY ALERT: Your WhatsApp account is being transferred to a new phone. Click link to abort transfer: wa-secure-token.com,1,0,1,phishing
+483,Your order #48104 has shipped via FedEx. Expected delivery: Thursday.,0,0,0,safe
+484,Boss: I'm currently tied up in an executive board review. Need you to purchase 4 Apple gift cards for a client presentation ASAP.,1,1,1,phishing
+485,The library book 'Introduction to Algorithms' is due back on Friday.,0,0,0,safe
+486,USPS Notice: Your parcel has arrived at our sorting facility but is detained due to unpaid customs duty of $2.30: usps-redelivery-fees.top,1,1,1,phishing
+487,Don't forget to submit the assignment before 11:59 PM tonight.,1,0,0,safe
+488,Congratulations! You have been shortlisted for a remote data entry role earning $45/hr. Start working today: remote-careers-apply.com,0,0,1,phishing
+489,Your prescription is ready for pickup at Main Street Pharmacy.,0,0,0,safe
+490,Immigration Bureau: Irregularity detected in your status paperwork. Contact legal helpline within 24h to avoid penalties: border-check.org,1,1,1,phishing
+491,Let's push the team standup to 10:30 AM to accommodate everyone.,0,0,0,safe
+492,"Chase Bank Alert: Unusual card swipe of $1,240.00 at Gucci NY. Reply NO to block card or click chase-fraud-resolve.com",1,0,1,phishing
+493,Your flight to Mombasa departs at 14:15 from Terminal 1D. Gate opens 45 minutes prior.,0,0,0,safe
+494,URGENT: Your student loan forgiveness claim expires at midnight! Final enrollment link: ed-forgiveness-direct.com,1,0,1,phishing
+495,Happy birthday! Wishing you a wonderful year ahead full of success.,0,0,0,safe
+496,Ministry of Health: Contact tracing indicates you were exposed to a communicable infection. Order free test kit here: health-kit-direct.co,1,1,1,phishing
+497,The conference room on the 3rd floor has been reserved for your team from 2 to 4 PM.,0,0,0,safe
+498,Your crypto wallet connection has been frozen due to node unsynchronization. Restore keys immediately: ledger-sync-auth.net,1,0,1,phishing
+499,Your electricity token for meter 452910842 is 8291-0391-4920-1928-4019. Units: 42.1 kWh.,0,0,0,safe
+500,"Hi dear, I lost my phone and this is my temporary number. Can you please wire $150 to this M-Pesa line urgently?",1,0,1,phishing
+501,"Hey, did you get a chance to review the pull request on GitHub?",0,0,0,safe
+502,Social Security Admin: Your SSN has been suspended due to fraudulent activity detected in South Texas. Press 1 to speak with an investigator.,1,1,1,phishing
+503,Your table reservation for 4 at Carnivore Restaurant is confirmed for Saturday at 7:30 PM.,0,0,0,safe
+504,"Alert: A new device logged into your Steam account from Moscow, Russia. If unauthorized, lock account: steam-guard-protect.com",1,0,1,phishing
+505,The garage door opener is fixed. The spare remote is on the kitchen counter.,0,0,0,safe
+506,Director General: Immediate confidential task required. Are you at your workstation right now? Reply to this text immediately.,1,1,1,phishing
+507,Your monthly bank e-statement for August is ready to download on online banking.,0,0,0,safe
+508,You have 1 unread voice message waiting. Call 0906-123-4567 to retrieve before it is deleted from the server (charges $3.50/min).,1,0,1,phishing
+509,"Good luck with your exam today, you’ll do great!",0,0,0,safe
+510,Toll Authority: You have an unpaid toll invoice of $6.50 from yesterday. Avoid $50 late surcharge by paying here: ezpass-online-pay.cc,1,1,1,phishing
+511,The team lunch has been rescheduled to Friday at noon.,0,0,0,safe
+512,URGENT: Your mobile line is scheduled for SIM deactivation within 1 hour per telecommunication guidelines. Re-register at sim-update-ke.com,1,1,1,phishing
+513,Your car oil change service is due in 500 miles. Call to schedule an appointment.,0,0,0,safe
+514,This is an official notice from Microsoft. Your account requires immediate verification.,0,0,0,safe
+515,Could you please grant me edit access to the Q4 roadmap document? Let me know.,0,0,0,safe
+516,Claim your limited-time special cashback deal on vacation package. Click here to activate your reward.,1,0,1,phishing
+517,Project update: The design deadline has been extended by two days.,0,0,0,safe
+518,Official communication: Your Netflix will be suspended unless you comply with our security update.,0,0,0,safe
+519,Thanks for your order! Your package KE-002607 is being prepared and should ship within 2-3 business days.,1,0,0,safe
+520,Special access granted! Login now to receive your premium service before it’s too late.,1,0,1,phishing
+521,Exclusive offer! Get a free cash bonus by verifying your account today.,0,0,1,phishing
+522,You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.,1,0,1,phishing
+523,"As per HMRC regulations, you must update your tax details immediately.",1,0,1,phishing
+524,"As per Customs & Border Protection regulations, you must update your tax details immediately.",1,0,1,phishing
+525,Immediate action required: Your email subscription is expiring. Renew now.,1,0,1,phishing
+526,Please find attached the minutes and action items from yesterday's product roadmap review.,0,0,0,safe
+527,Security alert: We have detected suspicious activity on your Zoho Mail. Reset your password now!,1,0,1,phishing
+528,Warning: Unusual login attempt detected on your Google. Verify your identity.,0,0,0,safe
+529,Warning: Unusual login attempt detected on your Facebook. Verify your identity.,0,0,0,safe
+530,I'll bring donuts to the office tomorrow morning. Best regards.,0,0,0,safe
+531,Are you available for a quick Zoom call this afternoon?,0,0,0,safe
+532,"Hey, what time does the movie start tonight?",0,0,0,safe
+533,Official communication: Your banking will be suspended unless you comply with our security update.,0,0,1,phishing
+534,Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!,1,0,1,phishing
+535,Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.,1,0,1,phishing
+536,Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.,1,0,1,phishing
+537,Congratulations! You have won a VIP membership. Click here to claim your reward.,0,0,1,phishing
+538,You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.,1,0,1,phishing
+539,Act fast! Your Bank of America account will be locked if not verified within 24 hours.,1,0,1,phishing
+540,Reminder: Please ensure your monitors are turned off before leaving. Thanks!,0,0,0,safe
+541,Claim your limited-time buy-one-get-one-free offer on smartphone. Click here to activate your reward.,0,0,1,phishing
+542,Congratulations! You have won a luxury watch. Click here to claim your reward.,0,0,1,phishing
+543,Urgent! Your Netflix has been compromised. Click here to secure it now!,1,0,1,phishing
+544,Special access granted! Login now to receive your gift card before it’s too late.,0,0,1,phishing
+545,Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!,1,0,1,phishing
+546,The office cafeteria will be closed for routine maintenance this coming Friday.,0,0,0,safe
+547,Immediate action required: Your Netflix subscription is expiring. Renew now.,1,0,1,phishing
+548,"Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",0,0,0,safe
+549,Warning: Unusual login attempt detected on your Amazon. Verify your identity.,0,0,0,safe
+550,The new coffee machine has been installed in the break room. Thanks!,0,0,0,safe
+551,Can we reschedule our 1-on-1 meeting to tomorrow afternoon? Let me know what works for you.,0,0,0,safe
+552,This is an official notice from Google. Your account requires immediate verification.,1,0,0,safe
+553,"Just a heads up, I will be out of office starting next Tuesday. Best regards.",0,0,0,safe
+554,Immediate action required: Your Spotify subscription is expiring. Renew now.,1,0,0,safe
+555,This is an official notice from PayPal. Your account requires immediate verification.,1,0,0,safe
+556,"As per FBI regulations, you must update your tax details immediately.",1,0,1,phishing
+557,Can you remind me what room the lecture is in?,0,0,0,safe
+558,Official communication: Your email will be suspended unless you comply with our security update.,1,0,1,phishing
+559,Urgent! Your Google has been compromised. Click here to secure it now!,1,0,1,phishing
+560,Please review the draft copy and leave your comments by EOD Wednesday. Let me know.,0,0,0,safe
+561,This is an official notice from Amazon. Your account requires immediate verification.,1,0,1,phishing
+562,Special access granted! Login now to receive your cashback before it’s too late.,1,0,1,phishing
+563,"Hi team, just a reminder that our weekly standup is scheduled for 2 PM today in Conference Room B.",0,0,0,safe
+564,The community hall will be unavailable on Saturday morning while the chairs are being repaired.,0,0,0,safe
+565,URGENT: Your parcel is waiting at the depot. Pay KSh 180 through this link before 6 PM to avoid return.,1,0,1,phishing
+566,"Hi team, I've moved our design review to 2:30 PM in Room B12. The agenda remains unchanged.",0,0,0,safe
+567,"Your mobile wallet has been selected for a KSh 25,000 bonus. Send your PIN to the verification desk within 10 minutes.",1,0,1,phishing
+568,The library will extend its opening hours during the examination period.,0,0,0,safe
+569,Notice from Account Security: unusual activity was detected. Confirm your login details immediately or access will be blocked.,1,0,1,phishing
+570,Could you share the minutes from yesterday's student association meeting when you get a chance?,0,0,0,safe
+571,Congratulations! You are among today's lucky winners. Reply YES and pay a small processing fee to release your cash prize.,1,0,1,phishing
+572,The electricity maintenance team will inspect the building's backup generator tomorrow afternoon.,0,0,0,safe
+573,Final warning: your streaming subscription expires tonight. Update your card information using the attached form to keep watching.,1,0,1,phishing
+574,I have uploaded the revised budget to the shared drive. Please review the highlighted cells before Friday.,0,0,0,safe
+575,Your tax document has an unresolved issue. The revenue office requires your ID number and banking details today.,1,0,1,phishing
+576,Reminder: the photography club meets at 5 PM near the main gate.,0,0,0,safe
+577,CEO REQUEST: I need you to purchase three gift cards right now and send me the codes. Keep this confidential.,1,1,1,phishing
+578,Your appointment has been moved from 9:00 AM to 10:30 AM after the clinic confirmed the new slot.,0,0,0,safe
+579,Security alert! Someone is attempting to reset your email password. Verify your account within 15 minutes using this link.,1,0,1,phishing
+580,Please remember to bring your calculator and student card for tomorrow's practical session.,0,0,0,safe
+581,"You have been chosen for an exclusive investment opportunity. Deposit KSh 5,000 today and receive guaranteed returns.",1,0,1,phishing
+582,The cafeteria menu for next week is now posted on the noticeboard.,0,0,0,safe
+583,Your bank rewards points are about to disappear. Sign in now to convert them into cash before midnight.,1,0,1,phishing
+584,Thanks for sending the photographs. I'll sort them into folders and share the final selection tomorrow.,0,0,0,safe
+585,Official compliance notice: employees who do not complete the attached verification form within two hours will lose system access.,1,0,1,phishing
+586,The water tank cleaning exercise has been scheduled for Wednesday morning.,0,0,0,safe
+587,"A refund of KSh 8,450 is waiting for you. Confirm your mobile money number and secret PIN to receive it immediately.",1,0,1,phishing
+588,Can we postpone our group discussion to Thursday? I have another class at the original time.,0,0,0,safe
+589,Fraud Department Alert: your account may be compromised. Call the number below and provide the one-time code you receive.,0,0,1,phishing
+590,The sports department has released the timetable for this weekend's matches.,0,0,0,safe
+591,Your online shopping account qualifies for a free premium upgrade. Click here now and enter your password to activate it.,1,0,1,phishing
+592,I've attached the attendance sheet for the workshop. Please check that your name is spelled correctly.,0,0,0,safe
+593,Court Services Notification: an outstanding fine has been registered under your name. Settle it within one hour to avoid legal action.,1,0,1,phishing
+594,The printer on the second floor is working again after the toner was replaced.,0,0,0,safe
+595,Your SIM registration is incomplete. Failure to submit your identification details today will permanently disable your number.,1,0,1,phishing
+596,Let's meet outside the engineering block after lunch to discuss the prototype.,0,0,0,safe
+597,"You have been pre-approved for a KSh 300,000 loan. Pay the verification charge now so the funds can be released.",1,0,1,phishing
+598,The seminar speaker has shared the presentation slides ahead of tomorrow's session.,0,0,0,safe
+599,Microsoft Support has detected a licensing problem on your device. Send your password to the administrator before your account is locked.,0,0,1,phishing
+600,I left the signed forms at reception. You can collect them whenever you are next on campus.,0,0,0,safe
+601,"Exclusive birthday reward! Click the secure claim page within 20 minutes or your KSh 10,000 voucher will be reassigned.",1,0,1,phishing
+602,The bus departure point has changed to Gate 3 because of road works near the main entrance.,0,0,0,safe
+603,"Your insurance claim has been approved. To receive the payout today, confirm your account number and security code through this portal.",1,0,1,phishing
+604,Please water the office plants before leaving this evening.,0,0,0,safe
+605,National Service Notification: your registration record requires immediate correction. Open the attached form and submit your ID details.,1,1,1,phishing
+606,"The coding workshop has been moved online, and the meeting link will be posted in the class group.",0,0,0,safe
+607,Someone has reported your social media profile. Verify ownership now or the platform will delete your account permanently.,1,0,1,phishing
+608,I've booked the conference room for Monday at 11 AM. Let me know if the projector is needed.,0,0,0,safe
+609,You've received a confidential message from payroll. Download the attached salary statement and enter your employee password to unlock it.,0,0,1,phishing
+610,The recycling collection point has moved beside the parking area until further notice.,0,0,0,safe
+611,"Final chance: claim your KSh 15,000 shopping voucher by replying with your full name, card number, and verification code.",0,0,1,phishing
+612,The project deadline remains Friday at 4 PM. No extension has been announced.,0,0,0,safe
+613,Bank Security Team: do not ignore this notice. Your card will be suspended unless you verify the last transaction using the link below.,0,0,1,phishing
+614,Please water the office plants before leaving this evening.,0,0,0,safe
+615,Your tax document has an unresolved issue. The revenue office requires your ID number and banking details today.,1,0,1,phishing
+616,Official compliance notice: your account requires identity confirmation today. Upload your ID through the provided page.,1,1,1,phishing
+617,The project deadline remains Friday at 4 PM. No extension has been announced.,0,0,0,safe
+618,Final warning: your streaming subscription expires tonight. Update your card information using the attached form to keep watching.,1,0,1,phishing
+619,"You have been chosen for an exclusive investment opportunity. Deposit KSh 5,000 today and receive guaranteed returns.",1,0,1,phishing
+620,Your online banking access expires tonight. Enter your PIN and password here to restore it immediately.,1,1,1,phishing
+621,The student association meeting has been postponed until next Wednesday.,0,0,0,safe
+622,Please check whether the projector is available for our presentation tomorrow.,0,0,0,safe
+623,Your mobile account has qualified for a free smartphone. Reply YES within 20 minutes to confirm your prize.,1,0,1,phishing
+624,Let's meet outside the main gate after the last lecture.,0,0,0,safe
+625,I will be late for the meeting by about ten minutes. Please start without me.,0,0,0,safe
+626,Reminder: the engineering workshop starts at 9 AM tomorrow in Lab 3. Bring your calculator.,0,0,0,safe
+627,"You have an unpaid traffic penalty. Settle KSh 2,450 immediately through this link to avoid further action.",1,1,1,phishing
+628,The bus departure point has changed to Gate 3 because of road works near the main entrance.,0,0,0,safe
+629,CEO REQUEST: I need you to purchase three gift cards right now and send me the codes. Keep this confidential.,1,1,1,phishing
+630,"You have been pre-approved for a KSh 300,000 loan. Pay the verification charge now so the funds can be released.",1,0,1,phishing
+631,Your bank rewards points are about to disappear. Sign in now to convert them into cash before midnight.,1,0,1,phishing
+632,The workshop certificates will be available for collection from the department office on Friday.,0,0,0,safe
+633,I left the charger on your desk. You can use it until I come back.,0,0,0,safe
+634,"Exclusive offer: receive KSh 5,000 airtime instantly. Click the confirmation link before midnight.",1,0,1,phishing
+635,Bank Security Team: do not ignore this notice. Your card will be suspended unless you verify the last transaction using the link below.,0,0,1,phishing
+636,Your email storage is almost full. Login through this page now to prevent incoming messages from being blocked.,1,0,1,phishing
+637,Can we postpone our group discussion to Thursday? I have another class at the original time.,0,0,0,safe
+638,The community hall will be unavailable on Saturday morning while the chairs are being repaired.,0,0,0,safe
+639,Someone has reported your social media profile. Verify ownership now or the platform will delete your account permanently.,1,0,1,phishing
+640,The team has agreed to use the blue template for the final presentation.,0,0,0,safe
+641,"You are entitled to a KSh 30,000 cash bonus from our loyalty program. Claim it now before the offer expires.",1,0,1,phishing
+642,Your parcel is being held because the address is incomplete. Pay the redirection fee using the link immediately.,1,0,1,phishing
+643,I've attached the attendance sheet for the workshop. Please check that your name is spelled correctly.,0,0,0,safe
+644,"The coding workshop has been moved online, and the meeting link will be posted in the class group.",0,0,0,safe
+645,Can we move our project discussion to 3 PM instead of 2 PM?,0,0,0,safe
+646,I have uploaded the revised budget to the shared drive. Please review the highlighted cells before Friday.,0,0,0,safe
+647,The football training session has been moved to Sunday at 4 PM.,0,0,0,safe
+648,Congratulations! You are among today's lucky winners. Reply YES and pay a small processing fee to release your cash prize.,1,0,1,phishing
+649,The lecturer has shared the reading list for next week's discussion.,0,0,0,safe
+650,"I have received the documents you sent. Thanks, I will review them tonight.",0,0,0,safe
+651,Please remind James to bring the extension cable for the event.,0,0,0,safe
+652,The bus will leave campus at 6:30 AM instead of 7 AM tomorrow.,1,0,0,safe
+653,The library will extend its opening hours during the examination period.,0,0,0,safe
+654,The examination timetable has been updated on the student portal.,0,0,0,safe
+655,"Your mobile wallet has been selected for a KSh 25,000 bonus. Send your PIN to the verification desk within 10 minutes.",1,0,1,phishing
+656,The sports department has released the timetable for this weekend's matches.,0,0,0,safe
+657,"Congratulations! Your phone number has won KSh 80,000. Send your account details to the claims agent now.",1,1,1,phishing
+658,"You have been chosen for a KSh 15,000 shopping reward. Pay a small activation fee today to receive it.",1,0,1,phishing
+659,"The rain has started, so the outdoor practice has been moved into the sports hall.",0,0,0,safe
+660,"Final chance: claim your KSh 15,000 shopping voucher by replying with your full name, card number, and verification code.",0,0,1,phishing
+661,"Exclusive birthday reward! Click the secure claim page within 20 minutes or your KSh 10,000 voucher will be reassigned.",1,0,1,phishing
+662,Your SIM registration is incomplete. Failure to submit your identification details today will permanently disable your number.,1,0,1,phishing
+663,I've booked the conference room for Monday at 11 AM. Let me know if the projector is needed.,0,0,0,safe
+664,Attached is the syllabus for the upcoming semester.,0,0,0,safe
+665,Final Notice: Action required on your tax refund status.,1,0,1,phishing
+666,URGENT: Your bank account has been locked. Click here to verify your identity,1,0,1,phishing
+667,"Congratulations! You have won a $1,000 gift card. Claim it now!",1,0,1,phishing
+668,Limited time offer: Get 90% off luxury watches today only!,1,0,1,phishing
+669,Please find attached the quarterly financial report.,0,0,0,safe
+670,Win a brand new smartphone by completing this quick 1-minute survey!,1,0,1,phishing
+671,Please update your password before Friday.,1,0,1,phishing
+672,Attached is the syllabus for the upcoming semester.,0,0,0,safe
+673,"Verify your crypto wallet details to receive your free token drop.""",0,0,1,phishing
+674,Security Alert: Unrecognized login attempt detected from a new device.,0,0,1,phishing
+675,Please review the attached project report when you have a moment.,0,0,0,safe
+676,You won a $500 gift card! Reply now to claim your prize before it expires.,1,0,1,phishing
+677,Your bank account is locked. Click http://bit.ly/secure-login to verify your details.,0,0,1,phishing
+678,Reminder: Team sync starts in 10 minutes on Zoom.,1,0,0,safe
+679,Final warning: Your electricity will be disconnected today due to unpaid bills. Call 1-800-555-0199.,1,0,1,phishing
+680,IRS Tax Notification: You are eligible for a refund of $420. Claim it immediately,1,0,1,phishing
+681,Your package is waiting at the depot. Pay the $2.99 customs fee to release it,1,0,1,phishing
+682,Your Apple ID has been locked for security reasons. Verify your identity at http://apple-id-support.info,0,0,1,phishing
+683,Your library membership renewal is due next month. Please review your account in the library portal.,0,0,0,safe
+684,URGENT: Your mobile money account will be suspended in 30 minutes unless you confirm your PIN.,1,0,1,phishing
+685,The community meeting has been moved to Room 4 for tomorrow afternoon.,0,0,0,safe
+686,"Congratulations, your number was selected for a cash prize. Send your ID details to receive payment today.",1,0,1,phishing
+687,Your workplace payslip for August is now available in the employee portal.,0,0,0,safe
+688,Unusual activity detected! Use the attached link to reset your email password immediately.,1,0,1,phishing
+689,Reminder: The photography club is collecting entries for this month's exhibition.,0,0,0,safe
+690,Your streaming subscription payment failed. Update your card details within 24 hours to avoid cancellation.,1,0,1,phishing
+691,The maintenance team will inspect the building's fire alarms on Thursday morning.,0,0,0,safe
+692,You've been selected for an exclusive supermarket voucher. Confirm your phone number to unlock the reward.,0,0,1,phishing
+693,Please remember to submit the completed assignment before the deadline on Friday.,0,0,0,safe
+694,Security warning: Your account will be permanently deleted tonight unless you verify it through this link.,1,0,1,phishing
+695,The school cafeteria menu for next week has been posted on the notice board.,0,0,0,phishing
+696,We noticed a problem with your delivery address. Pay a small redelivery fee now to prevent the parcel from being returned.,1,0,1,phishing
+697,The neighborhood cleanup exercise starts at 8 a.m. on Saturday.,0,0,0,safe
+698,Final reminder: Claim your uncollected inheritance by sending your bank details before midnight.,1,0,1,phishing
+699,Your appointment with the career office is confirmed for Wednesday at 2 p.m.,0,0,0,safe
+700,Exclusive investment opportunity: Double your money this week by transferring funds to our verified account.,1,0,1,phishing
+701,The IT department has published instructions for connecting to the new office Wi-Fi.,0,0,0,safe
+702,Your social media account has been flagged. Login through this form within one hour to avoid suspension.,1,0,1,phishing
+703,Please find the minutes from yesterday's committee meeting attached.,0,0,0,safe
+704,You qualify for a government relief payment. Confirm your national ID and banking details to receive it today.,1,0,1,phishing
+705,The sports club will hold practice at the usual field this evening.,0,0,0,safe
+706,Your parcel could not be delivered because of an incomplete address. Confirm the address using the secure form.,0,0,1,phishing
+707,The finance office will be closed on Friday for routine system maintenance.,0,0,0,safe
+708,Last chance! Your unused reward points will expire tonight unless you click the redemption link.,1,0,1,phishing
+709,Please review the updated event schedule before tomorrow's planning session.,0,0,0,safe
+710,Bank fraud alert: A suspicious transfer was detected. Call the number in this message and provide the verification code.,1,0,1,phishing
+711,"KRA Notice: You are owed a KSh 25,000 refund. Confirm your bank details and ID number to receive payment within 48 hours.",1,1,1,phishing
+712,"By instruction of Head of IT Security, please complete the required account update within 8 hours.",1,1,0,phishing
+713,Official notice from the Court Clerk's Office: A summons has been issued in your name. Pay the outstanding fine of $1464 within today to avoid a default judgment.,1,1,1,phishing
+714,"As required by HR policy, all employees must complete mandatory compliance training by end of day. Non-compliance will be reported to your manager.",1,1,1,phishing
+715,Your invoice is now 60 days overdue and has been escalated. Failure to pay $2858 within within 15 minutes will result in legal proceedings.,1,0,1,phishing
+716,the Board of Directors requires all account holders to complete a compliance check within 48 hours.,1,1,0,phishing
+717,"Think you're smart? Win Â£200 this week in our weekly quiz, text PLAY to 83833 now!",1,0,1,phishing
+718,Someone has reported your Facebook profile. Verify ownership now or the platform will delete your account permanently.,1,0,1,phishing
+719,FINAL NOTICE: Your LinkedIn subscription payment could not be processed. Update your billing information within today to prevent cancellation: cash-prize.example.com/confirm,1,0,1,phishing
+720,"Congratulations! Your mobile wallet has been selected for a KSh 25,000 bonus. Send your M-Pesa PIN to the verification desk within 10 minutes to claim.",1,0,1,phishing
+721,"As the system administrator, I'm notifying you that your mailbox has exceeded its storage limit. Verify your credentials immediately at service-update.example.com to prevent data loss.",1,1,1,phishing
+722,"Action Required: Your tax refund of KSh 15,000 is pending with IRS. Submit your social security details here before it expires.",1,1,1,phishing
+723,Notice from the Board of Directors: a mandatory account review must be completed within 30 minutes.,1,1,0,phishing
+724,FINAL NOTICE: Your KCB account has been temporarily restricted. Click here to restore access before 15 minutes: login-verify.com/8821,1,1,1,phishing
+725,Your Facebook account has been flagged for suspicious activity. Verify your number now or your account will be banned.,1,0,1,phishing
+726,FINAL NOTICE: Your Co-operative Bank account has been temporarily restricted. Click here to restore access before today: cash-prize.example.com/confirm,1,1,1,phishing
+727,"Hi, this is your CEO. I'm traveling and need you to process an urgent payment of KSh 1,500 on my behalf right away.",1,1,1,phishing
+728,FINAL NOTICE: Your TikTok subscription payment could not be processed. Update your billing information within 1 hour to prevent cancellation: billing-update.example.com,1,0,1,phishing
+729,"Congratulations! You've won a KSh 5,000 gift card. Click secure-update-portal.com to claim your prize before it expires.",1,0,1,phishing
+730,"CEO Directive: I'm in a meeting and unavailable. Quickly purchase KSh 150,000 worth of gift cards and send me the codes. Keep this confidential.",1,1,1,phishing
+731,Notice from the Office of the Director: your file has been updated following the recent internal audit.,0,1,0,phishing
+732,FLASH ALERT: You just won a $5638 cash bonus! Click here immediately before the offer closes.,1,0,1,phishing
+733,"Hi, this is your CEO. I'm traveling and need you to process an urgent payment of KSh 5,000 on my behalf right away.",1,1,1,phishing
+734,Today's Offer! Claim your Â£150 discount voucher! Text YES to 80693 now! Member offers mobile.,1,0,1,phishing
+735,"WINNER!! Your number has been selected to receive KSh 75,000 in our customer appreciation draw. Reply CLAIM now.",1,0,1,phishing
+736,FINAL NOTICE: Outstanding balance of $7379 is overdue. Pay within 2 hours to avoid legal action and additional late fees.,1,0,1,phishing
+737,"Congratulations! Your mobile wallet has been selected for a KSh 5,000 bonus. Send your M-Pesa PIN to the verification desk within 10 minutes to claim.",1,0,1,phishing
+738,Today's Offer! Claim your Â£150 discount voucher! Text YES to 86077 now! Member offers mobile.,1,0,1,phishing
+739,"Action Required: Your tax refund of KSh 1,200 is pending with the Tax Authority. Submit your social security details here before it expires.",1,1,1,phishing
+740,You qualify for an instant $2058 business loan today. Dial *416*8# to apply and repay in 90 days.,1,0,1,phishing
+741,"On behalf of Chief Compliance Officer, we require all staff to confirm their access details via the link below.",0,1,1,phishing
+742,Please find attached the invoice for the services rendered in August.,0,0,0,safe
+743,Your card payment was successful at the store you visited.,0,0,0,safe
+744,Your package is ready for collection at the pickup point you selected.,0,0,0,safe
+745,Your gym membership renewal notice for this month has been processed successfully.,0,0,0,safe
+746,Reminder: Your dental appointment is on Wednesday at 10:30am.,0,0,0,safe
+747,"Your login code is 633469; expires in 5 minutes, do not share with anyone.",0,0,0,safe
+748,Use the Lab Class on Regression to build your dataset and upload the notebook to your repo.,0,0,0,safe
+749,Your payment of KES 2450 for application REF-942700 has been received. Track progress on ecitizen.go.ke.,0,0,0,safe
+750,"Not sure yet, still trying to get a hold of him.",0,0,0,safe
+751,"Your login code is 773540; expires in 5 minutes, do not share with anyone.",0,0,0,safe
+752,Your Kaggle verification code is: 234568,0,0,0,safe
+753,Monthly water bill is now available. No action required.,0,0,0,safe
+754,Hope you are having a good week. Just checking in.,0,0,0,safe
+755,I sent the invoice to your email this morning. Please have a look and confirm the billing information before I submit the final copy.,0,0,0,safe
+756,Your appointment has been confirmed for Monday at 2 PM.,0,0,0,safe
+757,"Your verification code is 644103; if you didn't request this, you can ignore this text.",0,0,0,safe
+758,Thanks for your order! Your package is being prepared and should ship within 2-3 business days.,0,0,0,safe
+759,Please review the attached invoice and let me know if you have any questions.,0,0,0,safe
+760,Your vehicle service is booked for Saturday at 9 AM.,0,0,0,safe
+761,Your Kaggle verification code is: 639995,0,0,0,safe
+762,Acknowledgment: Your Individual Income Tax Return has been submitted successfully. Acknowledgment Number: KRA359961.,0,0,0,safe
+763,"Your login code is 151021; expires in 5 minutes, do not share with anyone.",0,0,0,safe
+764,"Your verification code is 680096; if you didn't request this, you can ignore this text.",0,0,0,safe
+765,Your grocery delivery is scheduled for tomorrow between 2-4pm.,0,0,0,safe
+766,"Your verification code is 684929; if you didn't request this, you can ignore this text.",0,0,0,safe
+767,Can we reschedule our 1-on-1 to tomorrow afternoon? Let me know what works for you.,0,0,0,safe
+768,Your payment of KES 1050 for application REF-644559 has been received. Track progress on ecitizen.go.ke.,0,0,0,safe
+769,"Your verification code is 742848; if you didn't request this, you can ignore this text.",0,0,0,safe
+770,"Your login code is 806537; expires in 5 minutes, do not share with anyone.",0,0,0,safe
+771,Your payment of KES 1050 for application REF-428930 has been received. Track progress on ecitizen.go.ke.,0,0,0,safe
+772,"Your verification code is 281594; if you didn't request this, you can ignore this text.",0,0,0,safe
+773,"Your verification code is 603110; if you didn't request this, you can ignore this text.",0,0,0,safe
+774,Your package is scheduled for delivery tomorrow between 9 AM and 1 PM. Track it via the official courier app.,0,0,0,safe
+775,"Sorry, I'll call later.",0,0,0,safe
+776,"Your login code is 910616; expires in 5 minutes, do not share with anyone.",0,0,0,safe
+777,Your Kaggle verification code is: 563864,0,0,0,safe
+778,Your Kaggle verification code is: 399279,0,0,0,safe
+779,"Your verification code is 398384; if you didn't request this, you can ignore this text.",0,0,0,safe
+780,I've moved our design review to 2:30 PM in Room B12. The agenda remains unchanged.,0,0,0,safe
