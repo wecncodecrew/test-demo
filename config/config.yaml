@@ -13,6 +13,11 @@ features:
 
 model:
   default_classifier: "Logistic Regression"
+  available_classifiers:
+    - "Logistic Regression"
+    - "Random Forest"
+    - "SVM (Linear)"
+    - "Multinomial Naive Bayes"
   artifact_path: "models/artifacts/phishing_pipeline.joblib"
   phishing_threshold: 0.50
 
