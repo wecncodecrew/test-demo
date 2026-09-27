@@ -82,7 +82,7 @@ def train_model():
     
     print(f"Saving serialized pipeline artifact to {artifact_path}...")
     joblib.dump(pipeline, artifact_path)
-    print("✅ Training complete! Model successfully saved and ready for production.")
+    print("Training complete! Model successfully saved and ready for production.")
 
 if __name__ == "__main__":
     train_model()
