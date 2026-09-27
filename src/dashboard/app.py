@@ -49,11 +49,11 @@ def analyze_message_handler(text: str):
     report += f"{keywords_str}\n\n"
     report += "### SOC Threat Assessment\n"
     if phishing_score >= 85:
-        report += "🔴 **CRITICAL RISK:** High likelihood of malicious intent. Immediate containment recommended."
+        report += "**CRITICAL RISK:** High likelihood of malicious intent. Immediate containment recommended."
     elif phishing_score >= 50:
-        report += "🟡 **MEDIUM RISK:** Suspicious indicator triggers detected. Analyst review required."
+        report += "**MEDIUM RISK:** Suspicious indicator triggers detected. Analyst review required."
     else:
-        report += "🟢 **LOW RISK:** Message text aligns with benign communication patterns."
+        report += "**LOW RISK:** Message text aligns with benign communication patterns."
 
     return report, clean_prob_map
 
@@ -92,7 +92,7 @@ def create_dashboard():
         gr.Markdown("### Incident Response Actions")
         with gr.Row():
             quarantine_btn = gr.Button("🟡 Quarantine Message", variant="secondary")
-            block_btn = gr.Button("🔴 Block Sender", variant="stop")
+            block_btn = gr.Button("🟠 Block Sender", variant="stop")
             purge_btn = gr.Button("⚫ Purge Message")
         
         action_status = gr.Markdown("*Status: Waiting for action...*")
