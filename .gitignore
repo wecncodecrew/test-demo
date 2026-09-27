@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Data & Models (Keep repositories lean)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+models/artifacts/*.joblib
+
+# Colab / Jupyter
+.ipynb_checkpoints
+.gradio/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
